@@ -1,5 +1,3 @@
-# 2021/10/28
-
 ## 安裝lirc
 
 [參考](https://blog.csdn.net/Destinyabc/article/details/107907251)
@@ -39,7 +37,5 @@ sudo apt-get install setserial ir-keytable #安裝相關套件
 
 
 [參考](https://www.twblogs.net/a/5d409721bd9eee51742320bc)
-
-!!!service問題還未解決
 
 mode2 -m -d /dev/lirc1 #錄製訊號
