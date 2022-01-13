@@ -15,10 +15,8 @@
 # limitations under the License.
 
 """A demo of the Google CloudSpeech recognizer."""
-import argparse
 import locale
 import logging
-import platform
 import sys
 import os
 import time
