@@ -1,0 +1,20 @@
+[Unit]
+Description=Google Assistant
+Wants=network-online.target
+After=network-online.target
+Wants=systemd-timesyncd.service
+After=systemd-timesyncd.service
+
+[Service]
+Environment=DISPLAY=:0
+Type=simple
+ExecStart=/home/pi/AIY-projects-python/src/examples/voice/assistant_library_with_button_demo.py
+Restart=on-failure
+User=pi
+Group=pi
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=google_assistant
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,50 @@
+KEY_0                      #0
+KEY_1                      #1
+KEY_2                      #2
+KEY_3                      #3
+KEY_4                      #4
+KEY_5                      #5
+KEY_6                      #6
+KEY_7                      #7
+KEY_8                      #8
+KEY_9                      #9
+KEY_AGAIN                  #再一次
+KEY_BACK                   #後退
+KEY_CANCEL                 #取消
+KEY_CHANNELDOWN            #下一個頻道
+KEY_CHANNELUP              #上一個頻道
+KEY_CLEAR                  #清除
+KEY_CLOSE                  #關閉/關機
+KEY_DELETE                 #刪除
+KEY_DOWN                   #下
+KEY_ENTER                  #進入/確認
+KEY_FORWARD                #前進
+KEY_HOME                   #首頁
+KEY_LAST                   #下一個
+KEY_LEFT                   #左
+KEY_LIST                   #清單
+KEY_MUTE                   #靜音
+KEY_OPEN                   #開啟
+KEY_POWER                  #電源/開機
+KEY_RIGHT                  #右
+KEY_SELECT                 #選擇
+KEY_STOP                   #停止
+KEY_UP                     #上
+KEY_VOLUMEDOWN             #音量增加
+KEY_VOLUMEUP               #音量減少
+
+
+mbot
+KEY_FORWARD                #前進
+KEY_BACK                   #後退
+KEY_LEFT                   #左
+KEY_RIGHT                  #右
+KEY_A                      #A
+KEY_B                      #B
+KEY_C                      #C
+
+TEMP
+KEY_POWER                  #26
+KEY_CLOSE                  #關閉/關機
+KEY_UP                     #27
+KEY_DOWN                   #25

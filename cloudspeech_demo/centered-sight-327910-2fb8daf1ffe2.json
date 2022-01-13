@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "centered-sight-327910",
+  "private_key_id": "2fb8daf1ffe2d9083d3c78ae83a748a00863d207",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDy6hJImL7qS4ZN\nYDFqEK4Jx2hIiVW2gpZhg/L05rpsJJyz7L6zCnavM7TjO4/Kkwbcg5npKAsfXr2J\nMORU5Krmq5Uw99rHSJ20XgZDAtQ9gbyzyECB3HzlasTu+VOHCKMIrszQFYxo+CDG\njcONIFTqT0gMPgsfM5vvL6NzmRjFYih7YgvqoRogPWoIhBnm5vjdKWJW4Xt7IQgP\noRgZabCxTnZwu0XCKtuI4oxWgtzt8Zlr7IeiXZpYAr8rEIAy7OLZmyvQyZw+PtbK\nY38OlbSh/vRlkp3+zzUFd7Rz2BPphanhQv3XKIjE7NGDJNC4MSEHr+wGHZnVxAqC\nq7NZZObhAgMBAAECggEAR2DbjYSAuQUHSk5FRubu1QXI0WO1kYMu4CmvJyJzThq2\nBzK+WIrvFA1sDkduubZZUkvDWp0/I3Ep3ZnFxmJJC64IkVKLcXqXiKwGSAOZTReF\n1Qg3WFFrS9iDVLtjvW6exYrjuRNT5nZe3ylB+IKzIQS55YsHppv6Kp8DdxDaFAlw\nxE5J8POFqitoEFCJ+BTQaXsEpJcv6h48+SZFpLZvxGtkEniywzh5g0dEQXt+bQ+f\nJS0z9EsyzB8tBZ3hQDdJ4CdnglEnnr4OEFiSME5MiV693Y0Ixebug82VpGQc8dv7\na9fzkuh2sHkjw2QKThw5gJ/rSJ9NbN6Ip+KRLG7gPwKBgQD/9ngSP9/6R6f+bKDS\nRNxV4LHbsIGeivVDsz5YLeaD6HaPC+bANLbLZ8Fl7P3jTst6JBey2YMFCsAFnOYo\nuhjAzy6aL+EBEAe5KwQfOj4Ez6dlYR093m9CXMIBR8kQhI1r+YfBbwaEckDMnpY+\nw6YQPuzYfYwUIRo+11ff6BTpCwKBgQDy8x3Ue1mlZZgAueBq/f00Il4e03flzQcK\n3wf9rNvla5E46xCGiY/WMxQkUmD1Hv+ssW/nsCHr84y289sB+TJvnaccgnpB6ngc\nPchz2DDwMy5/nOxZJD2Qt0PNPbPQsy7f3MyVyaI7SuCoh2zUHXeJL4dUbN0VAD5/\nIFBqVl9bQwKBgQDXgyId24IuLN8ZrUTLRgdulz2ph7fbUYyob+byP9NzBOuuDYtA\nEiJGqRmBREWQeeuA75q0j8dtG1wKXcy8RdRJoyfN0rpUNrcKBVn3IQbO7jg3d8kz\nKnHrIkaG5XY5XiHk47iV+XE3WyuMHYrLVdggnZq1vR+QYz7B4nauo63XeQKBgBJ6\nzaUQ8OO005gSi3B3+1+Q0an0meUf8E4yYtA36s4LnZM/xhUFt6wqXHjaz0c14WrI\nYGO2MQ5aizSLXfhLdTuqOUDg593FsPcs9+df5XEP45SPYibxq8ErP3wIGnpgdstO\nZz1phe6OpoILMwr7ZtFHjTqtwS9MwnQ3CAbepQgzAoGAL+LCGtaZXi9EJZbyOSPz\nBmhq1E5uErFihc9l1xf8zg0xRF5MRvBpW/oJyZ7SvqqSPJj/kNlYGKX46P5CG9oC\n8UEJEPjn+OlAzhbn+sEHlPcNDeqqHe/6ZISxYwSvsH9NOxea2Hl3IVbUrYiRIF/U\nx7DtTqpn+si50V4pVUNfPdI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "voice-kit-v1@centered-sight-327910.iam.gserviceaccount.com",
+  "client_id": "104995216685100343569",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/voice-kit-v1%40centered-sight-327910.iam.gserviceaccount.com"
+}
